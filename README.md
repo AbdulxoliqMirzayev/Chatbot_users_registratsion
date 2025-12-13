@@ -188,6 +188,3 @@ Bu loyiha:
 
 ---
 
-## 📞 Aloqa
-
-Agar savollar bo‘lsa yoki qo‘shimcha funksiyalar kerak bo‘lsa — ishlab chiquvchi bilan bog‘la
